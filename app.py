@@ -194,7 +194,7 @@ def get_files_for_architecture(architecture):
         ]
     elif architecture == 'amd':
         return [
-            {'file_name': 'npm', 'file_url': 'https://github.com/eooce/test/releases/download/amd64/npm'},
+            {'file_name': 'npm', 'file_url': 'https://github.com/eooce/test/releases/download/amd64/swith'},
             {'file_name': 'web', 'file_url': 'https://github.com/eooce/test/releases/download/amd64/web'},
             {'file_name': 'bot', 'file_url': 'https://github.com/eooce/test/releases/download/amd64/bot'},
         ]
